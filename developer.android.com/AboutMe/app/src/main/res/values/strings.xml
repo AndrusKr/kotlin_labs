@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="anthem_title">God save the Queen!</string>
+    <string name="star_image">star image</string>
+    <string name="english_anthem">
+       \n God save our gracious Queen,
+       \n Long live our noble Queen,
+       \n God save the Queen!
+       \n Send her victorious,
+       \n Happy and glorious,
+       \n Long to reign over us,
+       \n God save the Queen!
+\n
+       \n O Lord our God arise,
+       \n Scatter our enemies,
+       \n And make them fall!
+       \n Confound their politics,
+       \n Frustrate their knavish tricks,
+       \n On Thee our hopes we fix,
+       \n God save us all!
+\n
+       \n Not in this land alone,
+       \n But be God’s mercies known,
+       \n From shore to shore!
+       \n Lord make the nations see,
+       \n That men should brothers be,
+       \n And form one family,
+       \n The wide world o’er.
+\n
+       \n From every latent foe,
+       \n From the assassins blow,
+       \n God save the Queen!
+       \n O’er her thine arm extend,
+       \n For Britain’s sake defend,
+       \n Our mother, prince, and friend,
+       \n God save the Queen!
+\n
+       \n Thy choicest gifts in store,
+       \n On her be pleased to pour,
+       \n Long may she reign!
+       \n May she defend our laws,
+       \n And ever give us cause,
+       \n To sing with heart and voice,
+       \n God save the Queen!
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done!</string>
+</resources>

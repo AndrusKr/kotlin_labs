@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Andruś NotesApp</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="entry_share_button">Entry share button</string>
+    <string name="entry_copy_button">Entry copy button</string>
+    <string name="entry_delete_button">Entry delete button</string>
+    <string name="entry_edit_button">Entry edit button</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter description…</string>
+    <string name="add">Add</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="add_note">Add Note</string>
+    <string name="sort">Sort</string>
+</resources>

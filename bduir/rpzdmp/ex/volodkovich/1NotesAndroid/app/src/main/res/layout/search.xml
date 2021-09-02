@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <EditText
+        android:id="@+id/search_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <requestFocus />
+    </EditText>
+
+    <RadioGroup
+        android:id="@+id/id_search_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/id_radio_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="По дате" />
+
+        <RadioButton
+        android:id="@+id/id_radio_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="По содержимому" />
+
+        <RadioButton
+            android:id="@+id/id_radio_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="По цвету" />
+    </RadioGroup>
+
+    <Spinner
+        android:id="@+id/id_spinner_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </Spinner>
+
+</LinearLayout>

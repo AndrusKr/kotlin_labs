@@ -1,0 +1,30 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.prof.rssparser.example.MainActivity">
+
+    <item
+        android:id="@+id/action_raw_parser_tut"
+        android:checkable="true"
+        android:checked="false"
+        android:orderInCategory="200"
+        android:title="tut by" />
+    <item
+        android:id="@+id/action_raw_parser_onliner"
+        android:checkable="true"
+        android:checked="false"
+        android:orderInCategory="200"
+        android:title="onliner"/>
+    <item
+        android:id="@+id/action_raw_parser_yandex"
+        android:checkable="true"
+        android:checked="false"
+        android:orderInCategory="200"
+        android:title="yandex"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_about" />
+
+</menu>
